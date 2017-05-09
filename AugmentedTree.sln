@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AugmentedTree", "AugmentedTree\AugmentedTree.fsproj", "{F8322FFC-B204-4AF3-801C-70C14B651C20}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AugmentedTree.Test", "AugmentedTree.Test\AugmentedTree.Test.fsproj", "{3600C72B-8162-49F1-B05A-6113A7B5C4A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8322FFC-B204-4AF3-801C-70C14B651C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8322FFC-B204-4AF3-801C-70C14B651C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8322FFC-B204-4AF3-801C-70C14B651C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8322FFC-B204-4AF3-801C-70C14B651C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3600C72B-8162-49F1-B05A-6113A7B5C4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3600C72B-8162-49F1-B05A-6113A7B5C4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3600C72B-8162-49F1-B05A-6113A7B5C4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3600C72B-8162-49F1-B05A-6113A7B5C4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
